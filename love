@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css.css">
+    <script src="js.js"></script>
+</head>
+<body>
+<div class="header">
+    <div class="wp">
+        <div class="logo fl">慕课网</div>
+        <div class="fl kecheng" id="kecheng"><a href="javascript:;">课程</a></div>
+        <button class="fr" id="btn">登录</button>
+    </div>
+</div>
+<div class="banner cl">
+    <div class="wp">
+        <div class="inner">
+            <h3>换一种方式</h3>
+            <h1>来学习互联网编程</h1>
+            <h4>超酷的IT技术免费学习平台</h4>
+            <a href="" class="in fl jinru">进入</a>
+            <a href="" class="in fl more">
+                <i class="fl"></i>
+                <span class="fl">了解更多</span>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="ad wp"><p>每一节课都有一种新奇的感觉</p></div>
+<div class="liebiao wp">
+    <ul>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+        <li><a href="">
+            <img width="280" height="170"  src="http://img.mukewang.com/530c732400013e5106000338-300-170.jpg">
+            <h5>IT菜鸟逆袭指南（江湖篇）</h5>
+            <p>屌爆了！码农逆袭有秘诀，看“挨踢（IT）”小菜鸟慕无忌如何成为技术“土豪”。</p>
+            <span class="ren">16人参加</span><span class="time">课程时长：1小时</span>
+        </a></li>
+
+    </ul>
+</div>
+<div class="dianji cl">点击进入</div>
+<div class="footer">
+    <div class="muke wp"></div>
+    <div class="link wp">
+        <ul>
+            <li class="link-1 fl">
+                <p>我们的使命：传播互联网最前沿技术，帮助更多的人实现梦想！</p>
+                <p>京ICP备 13046642号-2</p>
+            </li>
+            <li class="link-2 fl">
+                <ul>
+                    <li><a href="">网站首页</a></li>
+                    <li><a href="">网站首页</a></li>
+                    <li><a href="">网站首页</a></li>
+                    <li><a href="">网站首页</a></li>
+                    <li><a href="">网站首页</a></li>
+                    <li><a href="">网站首页</a></li>
+                </ul>
+            </li>
+            <li class="link-3 fl">
+                <p>在这里关注我们的动向</p>
+<i></i>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--<div class="mask"></div>-->
+<!--<div class="login">-->
+    <!--<div class="logincont">-->
+        <!--<div class="close"></div>-->
+    <!--</div>-->
+<!--</div>-->
+</body>
+</html>
